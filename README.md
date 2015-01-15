@@ -53,7 +53,7 @@ Open [source code of this file](https://raw.githubusercontent.com/albburtsev/fro
  - [ ] Check project's deployment (all stuff must be in config files: package.json, bower.json)
  - [ ] ```npm test``` required
 
-## Footnotes
+---------------------------------------
 
 <sup>[1] X-UA-Compatible</sup>
 
