@@ -86,7 +86,7 @@ Open [source code of this file](https://raw.githubusercontent.com/albburtsev/fro
 
 <sup>[5] Common meta tags</sup>
 
-```
+```html
 <meta name="description" content="" />
 <meta name="keywords" content="" />
 <meta name="author" content="" />
