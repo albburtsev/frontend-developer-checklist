@@ -18,12 +18,13 @@ Open [source code of this file](https://raw.githubusercontent.com/albburtsev/fro
 - [ ] Noscript version
 - [ ] Proper cache for all static files
 - [ ] [Apple-specific](https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html) meta tags
+- [ ] All absolute pathes without protocol
 
 ### Graphics
 
-- [ ] Favicon 16x16, 32x32
-- [ ] Apple icons <sup>3</sup>
-- [ ] Android icons <sup>4</sup>
+- [ ] Favicon 16x16, 32x32 <sup>3</sup>
+- [ ] Apple icons <sup>4</sup>
+- [ ] Android icons <sup>5</sup>
 - [ ] Support retina displays
 - [ ] Sprites and icon fonts
 
@@ -32,7 +33,7 @@ Open [source code of this file](https://raw.githubusercontent.com/albburtsev/fro
 - [ ] robots.txt
 - [ ] humans.txt
 - [ ] Social likes buttons
-- [ ] Common meta tags <sup>5</sup>
+- [ ] Common meta tags <sup>6</sup>
 - [ ] [Facebook OG](https://developers.facebook.com/docs/opengraph/using-objects?locale=ru_RU#selfhosted-creating) meta tags
 - [ ] [Twitter cards](https://dev.twitter.com/cards/markup) meta tags
 - [ ] [GA](http://www.google.com/analytics/) and other statistic
@@ -68,7 +69,13 @@ Open [source code of this file](https://raw.githubusercontent.com/albburtsev/fro
 <meta name="format-detection" content="address=no"/>
 ```
 
-<sup>[3] Apple icons</sup>
+<sup>[3] Favicon</sup>
+
+```html
+<link rel="shortcut icon" type="image/x-icon" href="path/to/icon.ico"/>
+```
+
+<sup>[4] Apple icons</sup>
 
 ```html
 <link rel="apple-touch-icon" href="57x57.png">
@@ -77,14 +84,14 @@ Open [source code of this file](https://raw.githubusercontent.com/albburtsev/fro
 <link rel="apple-touch-startup-image" href="57x57.png">
 ```
 
-<sup>[4] Android icons</sup>
+<sup>[5] Android icons</sup>
 
 ```html
 <link rel="icon" sizes="192x192" href="nice-highres.png">
 <link rel="icon" sizes="128x128" href="niceicon.png">
 ```
 
-<sup>[5] Common meta tags</sup>
+<sup>[6] Common meta tags</sup>
 
 ```
 <meta name="description" content="" />
