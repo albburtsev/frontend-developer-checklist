@@ -50,6 +50,7 @@ Open [source code of this file](https://raw.githubusercontent.com/albburtsev/fro
 
  - [ ] Deploy task for build system
  - [ ] Code style (jshint, jscs) for JavaScript code
+ - [ ] [Autoprefixer](https://github.com/postcss/autoprefixer) for all styles
  - [ ] Don't save builds in project's VCS
  - [ ] Check project's deployment (all stuff must be in config files: package.json, bower.json)
  - [ ] ```npm test``` required
