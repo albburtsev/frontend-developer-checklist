@@ -60,7 +60,7 @@ Open [source code of this file](https://raw.githubusercontent.com/albburtsev/fro
 <sup>[1] X-UA-Compatible</sup>
 
 ```html
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 ```
 
 <sup>[2] Format detection</sup>
