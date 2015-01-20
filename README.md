@@ -27,6 +27,7 @@ Open [source code of this file](https://raw.githubusercontent.com/albburtsev/fro
 - [ ] Android icons <sup>5</sup>
 - [ ] Support retina displays
 - [ ] Sprites and icon fonts
+- [ ] Minify all images with [Imagemin](https://github.com/gruntjs/grunt-contrib-imagemin)
 
 ### SEO and Social
 
