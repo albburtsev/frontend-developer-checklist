@@ -28,6 +28,7 @@ Open [source code of this file](https://raw.githubusercontent.com/albburtsev/fro
 - [ ] Support retina displays
 - [ ] Sprites and icon fonts
 - [ ] Minify all images with [Imagemin](https://github.com/gruntjs/grunt-contrib-imagemin)
+- [ ] Image inlining (for instance [in Stylus](http://learnboost.github.io/stylus/docs/functions.url.html))
 
 ### SEO and Social
 
