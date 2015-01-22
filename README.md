@@ -34,6 +34,7 @@ Open [source code of this file](https://raw.githubusercontent.com/albburtsev/fro
 
 - [ ] robots.txt
 - [ ] humans.txt
+- [ ] Mark up content with [microdata](http://schema.org/)
 - [ ] Social likes buttons
 - [ ] Common meta tags <sup>6</sup>
 - [ ] [Facebook OG](https://developers.facebook.com/docs/opengraph/using-objects?locale=ru_RU#selfhosted-creating) meta tags
