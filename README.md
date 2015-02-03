@@ -8,7 +8,7 @@ Open [source code of this file](https://raw.githubusercontent.com/albburtsev/fro
 
 ### Common stuff: pages, styles, etc
 
-- [ ] Adaptive design for typical resolutions
+- [ ] Check responsive design for typical resolutions (320, 480, 1024, 1600, 2k)
 - [ ] [Viewport](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag) meta tag
 - [ ] X-UA-Compatible meta tag <sup>1</sup>
 - [ ] Format detection meta tags <sup>2</sup>
